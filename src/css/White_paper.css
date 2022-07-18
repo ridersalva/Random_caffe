@@ -1,7 +1,7 @@
 .paper {
     border-radius: 3px;
     justify-content: center;
-    background-color: rgb(253, 253, 253);
+    background-color: rgb(243, 241, 241);
     box-shadow: 0 0 5px 0px black;
     min-height: 55rem;
     min-width: 40rem;
@@ -12,5 +12,4 @@
     text-align: center;
     align-items: center;
     justify-content: center;
-
 }

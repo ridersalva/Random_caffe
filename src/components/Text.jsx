@@ -21,7 +21,11 @@ export default function Text() {
              <>  {S4.cafe}  </> 
                  ))} 
             </Row>
-       
+            <Row className='textS'>
+             
+             <h5> Temporada 4 </h5> 
+          
+            </Row>
         </Container>
 
     </>
