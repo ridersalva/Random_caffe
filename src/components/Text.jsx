@@ -8,14 +8,15 @@ export default function Text() {
   return (
     <>
         <Container className='text'>
-            <Row>
+            <Row className='textH'>
         
                   {cafess.S4.slice(0,1).map((S4)=>( 
                  <>  {S4.number}  </> 
                ))} 
             
             </Row>
-            <Row>
+            
+            <Row className='textB'>
             {cafess.S4.slice(0,1).map((S4)=>( 
              <>  {S4.cafe}  </> 
                  ))} 

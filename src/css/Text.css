@@ -1,8 +1,16 @@
 .text{
     color:black;
     width: 30rem;
-    text-align: center;
-    justify-content: center;
     margin-top: 5rem;
     margin-left: 5rem;
+}
+.textH{
+    text-align: left;
+   text-decoration: underline;
+   margin-bottom: 10%;
+}
+.textB{
+    text-align: left;
+    justify-content: center;
+   
 }
