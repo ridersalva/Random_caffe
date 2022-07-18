@@ -4,5 +4,13 @@
     background-color: azure;
     border-radius: 50%;
     position: absolute;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+img{
+    height: 50px;
+    width: 50px;
+    margin-left: 5px;
 }
 
