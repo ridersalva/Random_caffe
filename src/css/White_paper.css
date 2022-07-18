@@ -1,9 +1,10 @@
-.box {
-    border-radius: 13px;
+.paper {
+    border-radius: 3px;
     justify-content: center;
-    color: rgb(16, 17, 17);
-    box-shadow: 0 0 25px 0px black;
-    min-height: fit-content;
+    background-color: rgb(253, 253, 253);
+    box-shadow: 0 0 5px 0px black;
+    min-height: 55rem;
+    min-width: 40rem;
     margin-top: 150px;
     margin-bottom: 150px;
     margin-left: 50px;

@@ -1,0 +1,8 @@
+.logo{
+    height: 80px;
+    width: 80px;
+    background-color: azure;
+    border-radius: 50%;
+    position: absolute;
+}
+
