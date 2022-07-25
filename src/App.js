@@ -1,12 +1,13 @@
-import Navbar from './components/Navbar.jsx'
+
 import '../src/css/App.css'
 import AppRoutes from './routes/AppRoutes.jsx'
 import Footer from './components/Footer.jsx';
+import Navbara from './components/Navbara.jsx';
 
 function App() {
   return (
     <div className="App">
-          <Navbar/>
+          <Navbara/>
           <AppRoutes/>
           <Footer/>
     </div>
