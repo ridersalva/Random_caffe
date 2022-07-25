@@ -1,8 +1,8 @@
-import React, { useContext } from 'react'
+import React from 'react'
 import { Navbar as Nav } from 'react-bootstrap'
-import Logo_cafe from './Logo_cafe'
+import LogoCafe from './LogoCafe'
 import '../css/Navbar.css'
-import Generate_Ran from './Generate_Ran'
+import GenerateRan from './GenerateRan'
 
 function Navbar() {
 
@@ -10,8 +10,8 @@ function Navbar() {
 
     <>
       <Nav className='Navv'>
-      <Logo_cafe className='Round'/>
-      <Generate_Ran/>
+      <LogoCafe className='Round'/>
+      <GenerateRan/>
       </Nav>
     
     </>

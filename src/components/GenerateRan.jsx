@@ -2,7 +2,7 @@ import React from 'react'
 import { Button } from 'react-bootstrap'
 import '../css/Generate_Ran.css'
 
-export default function Generate_Ran() {
+export default function GenerateRan() {
   return (
 
     <div>

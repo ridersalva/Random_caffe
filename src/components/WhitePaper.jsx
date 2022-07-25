@@ -1,9 +1,9 @@
-import React,{children} from 'react';
+import React from 'react';
 import '../css/White_paper.css';
 import { Container} from 'react-bootstrap';
 import Text from './Text';
 
-function White_paper() {
+function WhitePaper() {
   return (
     <div className='paper'>
       <Container fluid="md">
@@ -12,4 +12,4 @@ function White_paper() {
     </div>
   )
 }
-export default White_paper;
+export default WhitePaper;
