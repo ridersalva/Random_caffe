@@ -1,5 +1,6 @@
 import React from 'react'
-import { Link, Navbar } from 'react-bootstrap'
+import {Link} from 'react-router-dom'
+import { Navbar } from 'react-bootstrap'
 import LogoCafe from './LogoCafe'
 import '../css/Navbar.css'
 
@@ -13,7 +14,7 @@ function Navbara() {
 
       <Link to="#" >Home</Link>
         <Link to="#">Temporada</Link>
-      <Link to="#" ><LogoCafe className='Round'/></Link>
+      <Link to="#" className='NavL' ><LogoCafe/></Link>
        <Link to="#">Definiciones</Link>
         <Link to="#">Contact</Link>
      

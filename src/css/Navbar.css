@@ -1,7 +1,7 @@
 .Navv{
     background-color: #ffffff;
     display: flex;
-   justify-content: space-around;
+   justify-content: space-between;
     align-items: center;
     width: 100%;
     height: 100px;
@@ -16,7 +16,18 @@
 img{
     width: 80px;
 }
+.NavL{
+    margin-bottom: 104px;
+    margin-right: 65px;
+  
+}
 .Round{
     align-items: center;
     justify-content: space-around;
+}
+a{
+    text-decoration:none;
+    color:black;
+    margin-left: 5%;
+    margin-left: 5%;
 }
