@@ -1,7 +1,7 @@
 import React from 'react'
 import { Image } from 'react-bootstrap'
 import '../css/Logo_cafe.css'
-import cafe_logo from '../img/reshot-icon-coffee-break-UR59EH28FN.svg'
+import cafe_logo from '../img/logo_web_cafe.png'
 
  function LogoCafe() {
   return (

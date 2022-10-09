@@ -12,7 +12,6 @@ export default function HomePage() {
    <Container>
     <Row>
         <WhitePaper/>
-
     </Row>
    </Container>
    <hr/>

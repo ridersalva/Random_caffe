@@ -1,11 +1,11 @@
-button{
+button {
     height: 95px;
     width: 115px;
     border-radius: 30%;
     justify-content: space-around;
     align-items: center;
     margin-top: 5px;
-    margin-left: 15px;
+    margin-left: 5px;
     margin-right: 15px;
     margin-bottom: 30%;
 }
