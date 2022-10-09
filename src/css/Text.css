@@ -1,16 +1,19 @@
-.text{
-    color:black;
+.text {
+    color: black;
     width: 30rem;
-    margin-top: 5rem;
+    margin-top: 1rem;
     margin-left: 5rem;
+    margin-right: 5rem;
 }
-.textH{
+
+.textH {
     text-align: left;
-    margin-top: 5rem;
-   text-decoration: underline;
-    margin-bottom: 15px;
+    margin-top: 2rem;
+    text-decoration: underline;
+    margin-bottom: 2px;
 }
-.textB{
+
+.textB {
     text-align: left;
     justify-content: center;
 }

@@ -1,19 +1,15 @@
 import React from 'react'
-import { Container,Row,Button,Image} from 'react-bootstrap'
+import { Container,Row,Button,Image, Col} from 'react-bootstrap'
 import WhitePaper from '../components/WhitePaper'
 import '../css/Home.css'
-
-
-
+import Home1 from '../components/Home1'
 
 export default function HomePage() {
   return (
 <>
-   <Container>
-    <Row>
-        <WhitePaper/>
+    <Row className='home1'>
+      <Home1/>
     </Row>
-   </Container>
    <hr/>
    <Container>
     <Button ><Image src="../img/9791427ade68d2557154a25f2fefb5ac.jpg" alt ="Temporada 1"/></Button>

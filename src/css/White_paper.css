@@ -1,10 +1,9 @@
 .paper {
     border-radius: 3px;
-    justify-content: center;
     background-color: rgb(243, 241, 241);
     box-shadow: 0 0 5px 0px black;
     min-height: 55rem;
-    min-width: 40rem;
+    width: fit-content;
     margin-top: 150px;
     margin-bottom: 150px;
     margin-left: 50px;
@@ -13,5 +12,5 @@
     align-items: center;
     justify-content: center;
     padding-top: 0.05%;
-    padding-bottom: 15%;
+    padding-bottom: 5%;
 }
