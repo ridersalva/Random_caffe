@@ -9,8 +9,12 @@ button {
     margin-right: 15px;
     margin-bottom: 30%;
 }
-.home1{
-width: 100%;
-justify-content: space-around;
-background-color: brown;
+.home1 {
+    width: 100%;
+    display: flex;
+    background-color: brown;
+    height: fit-content;
+    justify-content: right;
+    margin-right: 5%;
+    margin-top: 5%;
 }

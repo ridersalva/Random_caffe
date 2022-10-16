@@ -7,8 +7,16 @@ import Home1 from '../components/Home1'
 export default function HomePage() {
   return (
 <>
-    <Row className='home1'>
-      <Home1/>
+  
+    <Row  className='home1'>
+        <WhitePaper/>
+<Col className='new1'>
+        <h1> bien venido</h1>
+        <h2> este es el ultimo texto</h2>
+      </Col>
+    </Row>
+    <Row >
+      <h1> hola</h1>
     </Row>
    <hr/>
    <Container>
