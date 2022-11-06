@@ -1,0 +1,8 @@
+.new1{
+    display: flex;
+    justify-content: right;
+    height: 160px;
+    background-color: bisque;
+    margin-right: 5%;
+    margin-top: 5%;
+}

@@ -14,7 +14,7 @@ export default function Home1() {
           <h1>hola Temporada</h1>
         </Col>
         <Col md={4}>
-          <WhitePaper/>
+          <WhitePaper />
         </Col>
       </Row>
 
