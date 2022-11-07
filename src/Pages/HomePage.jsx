@@ -3,6 +3,7 @@ import { Container,Row,Button,Image, Col} from 'react-bootstrap'
 import WhitePaper from '../components/WhitePaper'
 import '../css/Home.css'
 import Home1 from '../components/Home1'
+import  Newcaffe from '../img/cafe-corretto-1024x731.jpg'
 
 export default function HomePage() {
   return (
@@ -11,8 +12,10 @@ export default function HomePage() {
     <Row  className='home1'>
         <WhitePaper/>
 <Col className='new1'>
-        <h1> bien venido</h1>
-        <h2> este es el ultimo texto</h2>
+  <Image src={Newcaffe} alt="new caffee"/>
+        <h1> Ultimo Cafe</h1>
+          <p> Listo para que lo disfrutes, si quieres leer textos previos haz click abajo </p>
+          <Button> Al Cafe 4</Button>
       </Col>
     </Row>
     <Row >
